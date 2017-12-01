@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HololensReceiver</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\tinas\Desktop\GitHub\Escape Labs Mega Folder\HoloBeam\Duplicate of LiveScan for 2017\LiveScan3D-Hololens\HololensReceiver\UWP\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\tinas\Desktop\GitHub\Escape Labs Mega Folder\HoloBeam\Duplicate of LiveScan for 2017\LiveScan3D-Hololens\HololensReceiver\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
